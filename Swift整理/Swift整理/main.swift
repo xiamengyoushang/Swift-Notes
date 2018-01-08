@@ -8,7 +8,6 @@
 
 import Foundation
 
-
 /*
  Swift4.0知识点整理
  https://github.com/xiamengyoushang/Swift-Notes
@@ -20,3 +19,5 @@ import Foundation
  2.创建多个Target
  先创建一个工程 然后File->New->Target 选择一个工程模板
  */
+
+print("Hello Swift , by xiamengyoushang")
