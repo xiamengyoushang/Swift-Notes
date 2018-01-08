@@ -221,6 +221,7 @@
 		D8A60E481FFF3F8D0043068D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D8A60E511FFF3FD20043068D /* 16.可选类型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "16.可选类型"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8A60E531FFF3FD20043068D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8BAF2982003842A00B713E1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		D8C1D94A1FFCEA2A00C2F4F9 /* Swift整理 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift整理"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8C1D94D1FFCEA2A00C2F4F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D8C1D9581FFCEB6D00C2F4F9 /* 1.常量变量和基础类型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "1.常量变量和基础类型"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -455,6 +456,7 @@
 		D8C1D9411FFCEA2A00C2F4F9 = {
 			isa = PBXGroup;
 			children = (
+				D8BAF2982003842A00B713E1 /* README.md */,
 				D8C1D94C1FFCEA2A00C2F4F9 /* Swift整理 */,
 				D8C1D9591FFCEB6D00C2F4F9 /* 1.常量变量和基础类型 */,
 				D8C1D9641FFCEB9900C2F4F9 /* 2.元祖 */,
