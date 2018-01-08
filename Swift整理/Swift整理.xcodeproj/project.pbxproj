@@ -1,0 +1,1864 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D89E0C541FFDBAD400BDD8D5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89E0C531FFDBAD300BDD8D5 /* main.swift */; };
+		D89E0C5F1FFDD80600BDD8D5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89E0C5E1FFDD80600BDD8D5 /* main.swift */; };
+		D89E0C6A1FFDF92D00BDD8D5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89E0C691FFDF92D00BDD8D5 /* main.swift */; };
+		D89E0C751FFE120100BDD8D5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89E0C741FFE120100BDD8D5 /* main.swift */; };
+		D89E0C801FFE123700BDD8D5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89E0C7F1FFE123700BDD8D5 /* main.swift */; };
+		D8A60E331FFF3F270043068D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A60E321FFF3F270043068D /* main.swift */; };
+		D8A60E3E1FFF3F650043068D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A60E3D1FFF3F650043068D /* main.swift */; };
+		D8A60E491FFF3F8D0043068D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A60E481FFF3F8D0043068D /* main.swift */; };
+		D8A60E541FFF3FD20043068D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A60E531FFF3FD20043068D /* main.swift */; };
+		D8C1D94E1FFCEA2A00C2F4F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C1D94D1FFCEA2A00C2F4F9 /* main.swift */; };
+		D8C1D95B1FFCEB6D00C2F4F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C1D95A1FFCEB6D00C2F4F9 /* main.swift */; };
+		D8C1D9661FFCEB9900C2F4F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C1D9651FFCEB9900C2F4F9 /* main.swift */; };
+		D8C1D9711FFCEBB300C2F4F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C1D9701FFCEBB300C2F4F9 /* main.swift */; };
+		D8C1D97C1FFCEBCA00C2F4F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C1D97B1FFCEBCA00C2F4F9 /* main.swift */; };
+		D8C1D9871FFCEBE900C2F4F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C1D9861FFCEBE900C2F4F9 /* main.swift */; };
+		D8C1D9921FFCEC0300C2F4F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C1D9911FFCEC0300C2F4F9 /* main.swift */; };
+		D8C1D99D1FFCEC1E00C2F4F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C1D99C1FFCEC1E00C2F4F9 /* main.swift */; };
+		D8FBB3052003473B00EFAD3B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FBB3042003473B00EFAD3B /* main.swift */; };
+		D8FBB31020036B3F00EFAD3B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FBB30F20036B3F00EFAD3B /* main.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		D89E0C4F1FFDBAD300BDD8D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D89E0C5A1FFDD80600BDD8D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D89E0C651FFDF92D00BDD8D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D89E0C701FFE120100BDD8D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D89E0C7B1FFE123700BDD8D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8A60E2E1FFF3F270043068D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8A60E391FFF3F650043068D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8A60E441FFF3F8D0043068D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8A60E4F1FFF3FD20043068D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8C1D9481FFCEA2A00C2F4F9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8C1D9561FFCEB6D00C2F4F9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8C1D9611FFCEB9900C2F4F9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8C1D96C1FFCEBB300C2F4F9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8C1D9771FFCEBCA00C2F4F9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8C1D9821FFCEBE900C2F4F9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8C1D98D1FFCEC0300C2F4F9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8C1D9981FFCEC1E00C2F4F9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8FBB3002003473A00EFAD3B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8FBB30B20036B3F00EFAD3B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		D89E0C511FFDBAD300BDD8D5 /* 8.Block闭包 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "8.Block闭包"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D89E0C531FFDBAD300BDD8D5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D89E0C5C1FFDD80600BDD8D5 /* 9.枚举和结构体 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "9.枚举和结构体"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D89E0C5E1FFDD80600BDD8D5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D89E0C671FFDF92D00BDD8D5 /* 10.类和属性 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "10.类和属性"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D89E0C691FFDF92D00BDD8D5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D89E0C721FFE120100BDD8D5 /* 11.下标subscripts */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "11.下标subscripts"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D89E0C741FFE120100BDD8D5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D89E0C7D1FFE123700BDD8D5 /* 12.类的继承 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "12.类的继承"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D89E0C7F1FFE123700BDD8D5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8A60E301FFF3F270043068D /* 13.构造方法 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "13.构造方法"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8A60E321FFF3F270043068D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8A60E3B1FFF3F650043068D /* 14.析构方法 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "14.析构方法"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8A60E3D1FFF3F650043068D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8A60E461FFF3F8D0043068D /* 15.内存管理 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "15.内存管理"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8A60E481FFF3F8D0043068D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8A60E511FFF3FD20043068D /* 16.可选类型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "16.可选类型"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8A60E531FFF3FD20043068D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8C1D94A1FFCEA2A00C2F4F9 /* Swift整理 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift整理"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8C1D94D1FFCEA2A00C2F4F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8C1D9581FFCEB6D00C2F4F9 /* 1.常量变量和基础类型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "1.常量变量和基础类型"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8C1D95A1FFCEB6D00C2F4F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8C1D9631FFCEB9900C2F4F9 /* 2.元祖 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2.元祖"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8C1D9651FFCEB9900C2F4F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8C1D96E1FFCEBB300C2F4F9 /* 3.可选值 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "3.可选值"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8C1D9701FFCEBB300C2F4F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8C1D9791FFCEBCA00C2F4F9 /* 4.字符和字符串 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4.字符和字符串"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8C1D97B1FFCEBCA00C2F4F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8C1D9841FFCEBE900C2F4F9 /* 5.数组基础 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "5.数组基础"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8C1D9861FFCEBE900C2F4F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8C1D98F1FFCEC0300C2F4F9 /* 6.字典基础 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "6.字典基础"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8C1D9911FFCEC0300C2F4F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8C1D99A1FFCEC1E00C2F4F9 /* 7.函数基础 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "7.函数基础"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8C1D99C1FFCEC1E00C2F4F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8FBB3022003473A00EFAD3B /* 17.协议protocol */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17.协议protocol"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8FBB3042003473B00EFAD3B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8FBB30D20036B3F00EFAD3B /* 18.扩展 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18.扩展"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8FBB30F20036B3F00EFAD3B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D89E0C4E1FFDBAD300BDD8D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D89E0C591FFDD80600BDD8D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D89E0C641FFDF92D00BDD8D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D89E0C6F1FFE120100BDD8D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D89E0C7A1FFE123700BDD8D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8A60E2D1FFF3F270043068D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8A60E381FFF3F650043068D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8A60E431FFF3F8D0043068D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8A60E4E1FFF3FD20043068D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D9471FFCEA2A00C2F4F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D9551FFCEB6D00C2F4F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D9601FFCEB9900C2F4F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D96B1FFCEBB300C2F4F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D9761FFCEBCA00C2F4F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D9811FFCEBE900C2F4F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D98C1FFCEC0300C2F4F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D9971FFCEC1E00C2F4F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8FBB2FF2003473A00EFAD3B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8FBB30A20036B3F00EFAD3B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D89E0C521FFDBAD300BDD8D5 /* 8.Block闭包 */ = {
+			isa = PBXGroup;
+			children = (
+				D89E0C531FFDBAD300BDD8D5 /* main.swift */,
+			);
+			path = "8.Block闭包";
+			sourceTree = "<group>";
+		};
+		D89E0C5D1FFDD80600BDD8D5 /* 9.枚举和结构体 */ = {
+			isa = PBXGroup;
+			children = (
+				D89E0C5E1FFDD80600BDD8D5 /* main.swift */,
+			);
+			path = "9.枚举和结构体";
+			sourceTree = "<group>";
+		};
+		D89E0C681FFDF92D00BDD8D5 /* 10.类和属性 */ = {
+			isa = PBXGroup;
+			children = (
+				D89E0C691FFDF92D00BDD8D5 /* main.swift */,
+			);
+			path = "10.类和属性";
+			sourceTree = "<group>";
+		};
+		D89E0C731FFE120100BDD8D5 /* 11.下标subscripts */ = {
+			isa = PBXGroup;
+			children = (
+				D89E0C741FFE120100BDD8D5 /* main.swift */,
+			);
+			path = "11.下标subscripts";
+			sourceTree = "<group>";
+		};
+		D89E0C7E1FFE123700BDD8D5 /* 12.类的继承 */ = {
+			isa = PBXGroup;
+			children = (
+				D89E0C7F1FFE123700BDD8D5 /* main.swift */,
+			);
+			path = "12.类的继承";
+			sourceTree = "<group>";
+		};
+		D8A60E311FFF3F270043068D /* 13.构造方法 */ = {
+			isa = PBXGroup;
+			children = (
+				D8A60E321FFF3F270043068D /* main.swift */,
+			);
+			path = "13.构造方法";
+			sourceTree = "<group>";
+		};
+		D8A60E3C1FFF3F650043068D /* 14.析构方法 */ = {
+			isa = PBXGroup;
+			children = (
+				D8A60E3D1FFF3F650043068D /* main.swift */,
+			);
+			path = "14.析构方法";
+			sourceTree = "<group>";
+		};
+		D8A60E471FFF3F8D0043068D /* 15.内存管理 */ = {
+			isa = PBXGroup;
+			children = (
+				D8A60E481FFF3F8D0043068D /* main.swift */,
+			);
+			path = "15.内存管理";
+			sourceTree = "<group>";
+		};
+		D8A60E521FFF3FD20043068D /* 16.可选类型 */ = {
+			isa = PBXGroup;
+			children = (
+				D8A60E531FFF3FD20043068D /* main.swift */,
+			);
+			path = "16.可选类型";
+			sourceTree = "<group>";
+		};
+		D8C1D9411FFCEA2A00C2F4F9 = {
+			isa = PBXGroup;
+			children = (
+				D8C1D94C1FFCEA2A00C2F4F9 /* Swift整理 */,
+				D8C1D9591FFCEB6D00C2F4F9 /* 1.常量变量和基础类型 */,
+				D8C1D9641FFCEB9900C2F4F9 /* 2.元祖 */,
+				D8C1D96F1FFCEBB300C2F4F9 /* 3.可选值 */,
+				D8C1D97A1FFCEBCA00C2F4F9 /* 4.字符和字符串 */,
+				D8C1D9851FFCEBE900C2F4F9 /* 5.数组基础 */,
+				D8C1D9901FFCEC0300C2F4F9 /* 6.字典基础 */,
+				D8C1D99B1FFCEC1E00C2F4F9 /* 7.函数基础 */,
+				D89E0C521FFDBAD300BDD8D5 /* 8.Block闭包 */,
+				D89E0C5D1FFDD80600BDD8D5 /* 9.枚举和结构体 */,
+				D89E0C681FFDF92D00BDD8D5 /* 10.类和属性 */,
+				D89E0C731FFE120100BDD8D5 /* 11.下标subscripts */,
+				D89E0C7E1FFE123700BDD8D5 /* 12.类的继承 */,
+				D8A60E311FFF3F270043068D /* 13.构造方法 */,
+				D8A60E3C1FFF3F650043068D /* 14.析构方法 */,
+				D8A60E471FFF3F8D0043068D /* 15.内存管理 */,
+				D8A60E521FFF3FD20043068D /* 16.可选类型 */,
+				D8FBB3032003473A00EFAD3B /* 17.协议protocol */,
+				D8FBB30E20036B3F00EFAD3B /* 18.扩展category */,
+				D8C1D94B1FFCEA2A00C2F4F9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D8C1D94B1FFCEA2A00C2F4F9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D8C1D94A1FFCEA2A00C2F4F9 /* Swift整理 */,
+				D8C1D9581FFCEB6D00C2F4F9 /* 1.常量变量和基础类型 */,
+				D8C1D9631FFCEB9900C2F4F9 /* 2.元祖 */,
+				D8C1D96E1FFCEBB300C2F4F9 /* 3.可选值 */,
+				D8C1D9791FFCEBCA00C2F4F9 /* 4.字符和字符串 */,
+				D8C1D9841FFCEBE900C2F4F9 /* 5.数组基础 */,
+				D8C1D98F1FFCEC0300C2F4F9 /* 6.字典基础 */,
+				D8C1D99A1FFCEC1E00C2F4F9 /* 7.函数基础 */,
+				D89E0C511FFDBAD300BDD8D5 /* 8.Block闭包 */,
+				D89E0C5C1FFDD80600BDD8D5 /* 9.枚举和结构体 */,
+				D89E0C671FFDF92D00BDD8D5 /* 10.类和属性 */,
+				D89E0C721FFE120100BDD8D5 /* 11.下标subscripts */,
+				D89E0C7D1FFE123700BDD8D5 /* 12.类的继承 */,
+				D8A60E301FFF3F270043068D /* 13.构造方法 */,
+				D8A60E3B1FFF3F650043068D /* 14.析构方法 */,
+				D8A60E461FFF3F8D0043068D /* 15.内存管理 */,
+				D8A60E511FFF3FD20043068D /* 16.可选类型 */,
+				D8FBB3022003473A00EFAD3B /* 17.协议protocol */,
+				D8FBB30D20036B3F00EFAD3B /* 18.扩展 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D8C1D94C1FFCEA2A00C2F4F9 /* Swift整理 */ = {
+			isa = PBXGroup;
+			children = (
+				D8C1D94D1FFCEA2A00C2F4F9 /* main.swift */,
+			);
+			path = "Swift整理";
+			sourceTree = "<group>";
+		};
+		D8C1D9591FFCEB6D00C2F4F9 /* 1.常量变量和基础类型 */ = {
+			isa = PBXGroup;
+			children = (
+				D8C1D95A1FFCEB6D00C2F4F9 /* main.swift */,
+			);
+			path = "1.常量变量和基础类型";
+			sourceTree = "<group>";
+		};
+		D8C1D9641FFCEB9900C2F4F9 /* 2.元祖 */ = {
+			isa = PBXGroup;
+			children = (
+				D8C1D9651FFCEB9900C2F4F9 /* main.swift */,
+			);
+			path = "2.元祖";
+			sourceTree = "<group>";
+		};
+		D8C1D96F1FFCEBB300C2F4F9 /* 3.可选值 */ = {
+			isa = PBXGroup;
+			children = (
+				D8C1D9701FFCEBB300C2F4F9 /* main.swift */,
+			);
+			path = "3.可选值";
+			sourceTree = "<group>";
+		};
+		D8C1D97A1FFCEBCA00C2F4F9 /* 4.字符和字符串 */ = {
+			isa = PBXGroup;
+			children = (
+				D8C1D97B1FFCEBCA00C2F4F9 /* main.swift */,
+			);
+			path = "4.字符和字符串";
+			sourceTree = "<group>";
+		};
+		D8C1D9851FFCEBE900C2F4F9 /* 5.数组基础 */ = {
+			isa = PBXGroup;
+			children = (
+				D8C1D9861FFCEBE900C2F4F9 /* main.swift */,
+			);
+			path = "5.数组基础";
+			sourceTree = "<group>";
+		};
+		D8C1D9901FFCEC0300C2F4F9 /* 6.字典基础 */ = {
+			isa = PBXGroup;
+			children = (
+				D8C1D9911FFCEC0300C2F4F9 /* main.swift */,
+			);
+			path = "6.字典基础";
+			sourceTree = "<group>";
+		};
+		D8C1D99B1FFCEC1E00C2F4F9 /* 7.函数基础 */ = {
+			isa = PBXGroup;
+			children = (
+				D8C1D99C1FFCEC1E00C2F4F9 /* main.swift */,
+			);
+			path = "7.函数基础";
+			sourceTree = "<group>";
+		};
+		D8FBB3032003473A00EFAD3B /* 17.协议protocol */ = {
+			isa = PBXGroup;
+			children = (
+				D8FBB3042003473B00EFAD3B /* main.swift */,
+			);
+			path = "17.协议protocol";
+			sourceTree = "<group>";
+		};
+		D8FBB30E20036B3F00EFAD3B /* 18.扩展category */ = {
+			isa = PBXGroup;
+			children = (
+				D8FBB30F20036B3F00EFAD3B /* main.swift */,
+			);
+			path = "18.扩展category";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D89E0C501FFDBAD300BDD8D5 /* 8.Block闭包 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D89E0C571FFDBAD400BDD8D5 /* Build configuration list for PBXNativeTarget "8.Block闭包" */;
+			buildPhases = (
+				D89E0C4D1FFDBAD300BDD8D5 /* Sources */,
+				D89E0C4E1FFDBAD300BDD8D5 /* Frameworks */,
+				D89E0C4F1FFDBAD300BDD8D5 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "8.Block闭包";
+			productName = "8.Block闭包";
+			productReference = D89E0C511FFDBAD300BDD8D5 /* 8.Block闭包 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D89E0C5B1FFDD80600BDD8D5 /* 9.枚举和结构体 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D89E0C601FFDD80600BDD8D5 /* Build configuration list for PBXNativeTarget "9.枚举和结构体" */;
+			buildPhases = (
+				D89E0C581FFDD80600BDD8D5 /* Sources */,
+				D89E0C591FFDD80600BDD8D5 /* Frameworks */,
+				D89E0C5A1FFDD80600BDD8D5 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "9.枚举和结构体";
+			productName = "9.枚举和结构体";
+			productReference = D89E0C5C1FFDD80600BDD8D5 /* 9.枚举和结构体 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D89E0C661FFDF92D00BDD8D5 /* 10.类和属性 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D89E0C6B1FFDF92D00BDD8D5 /* Build configuration list for PBXNativeTarget "10.类和属性" */;
+			buildPhases = (
+				D89E0C631FFDF92D00BDD8D5 /* Sources */,
+				D89E0C641FFDF92D00BDD8D5 /* Frameworks */,
+				D89E0C651FFDF92D00BDD8D5 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "10.类和属性";
+			productName = "10.类和属性";
+			productReference = D89E0C671FFDF92D00BDD8D5 /* 10.类和属性 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D89E0C711FFE120100BDD8D5 /* 11.下标subscripts */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D89E0C761FFE120100BDD8D5 /* Build configuration list for PBXNativeTarget "11.下标subscripts" */;
+			buildPhases = (
+				D89E0C6E1FFE120100BDD8D5 /* Sources */,
+				D89E0C6F1FFE120100BDD8D5 /* Frameworks */,
+				D89E0C701FFE120100BDD8D5 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "11.下标subscripts";
+			productName = "11.下标subscripts";
+			productReference = D89E0C721FFE120100BDD8D5 /* 11.下标subscripts */;
+			productType = "com.apple.product-type.tool";
+		};
+		D89E0C7C1FFE123700BDD8D5 /* 12.类的继承 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D89E0C811FFE123700BDD8D5 /* Build configuration list for PBXNativeTarget "12.类的继承" */;
+			buildPhases = (
+				D89E0C791FFE123700BDD8D5 /* Sources */,
+				D89E0C7A1FFE123700BDD8D5 /* Frameworks */,
+				D89E0C7B1FFE123700BDD8D5 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "12.类的继承";
+			productName = "12.类的继承";
+			productReference = D89E0C7D1FFE123700BDD8D5 /* 12.类的继承 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8A60E2F1FFF3F270043068D /* 13.构造方法 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8A60E361FFF3F270043068D /* Build configuration list for PBXNativeTarget "13.构造方法" */;
+			buildPhases = (
+				D8A60E2C1FFF3F270043068D /* Sources */,
+				D8A60E2D1FFF3F270043068D /* Frameworks */,
+				D8A60E2E1FFF3F270043068D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "13.构造方法";
+			productName = "13.构造方法";
+			productReference = D8A60E301FFF3F270043068D /* 13.构造方法 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8A60E3A1FFF3F650043068D /* 14.析构方法 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8A60E3F1FFF3F650043068D /* Build configuration list for PBXNativeTarget "14.析构方法" */;
+			buildPhases = (
+				D8A60E371FFF3F650043068D /* Sources */,
+				D8A60E381FFF3F650043068D /* Frameworks */,
+				D8A60E391FFF3F650043068D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "14.析构方法";
+			productName = "14.析构方法";
+			productReference = D8A60E3B1FFF3F650043068D /* 14.析构方法 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8A60E451FFF3F8D0043068D /* 15.内存管理 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8A60E4A1FFF3F8D0043068D /* Build configuration list for PBXNativeTarget "15.内存管理" */;
+			buildPhases = (
+				D8A60E421FFF3F8D0043068D /* Sources */,
+				D8A60E431FFF3F8D0043068D /* Frameworks */,
+				D8A60E441FFF3F8D0043068D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "15.内存管理";
+			productName = "15.内存管理";
+			productReference = D8A60E461FFF3F8D0043068D /* 15.内存管理 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8A60E501FFF3FD20043068D /* 16.可选类型 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8A60E551FFF3FD20043068D /* Build configuration list for PBXNativeTarget "16.可选类型" */;
+			buildPhases = (
+				D8A60E4D1FFF3FD20043068D /* Sources */,
+				D8A60E4E1FFF3FD20043068D /* Frameworks */,
+				D8A60E4F1FFF3FD20043068D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "16.可选类型";
+			productName = "16.可选类型";
+			productReference = D8A60E511FFF3FD20043068D /* 16.可选类型 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8C1D9491FFCEA2A00C2F4F9 /* Swift整理 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8C1D9511FFCEA2A00C2F4F9 /* Build configuration list for PBXNativeTarget "Swift整理" */;
+			buildPhases = (
+				D8C1D9461FFCEA2A00C2F4F9 /* Sources */,
+				D8C1D9471FFCEA2A00C2F4F9 /* Frameworks */,
+				D8C1D9481FFCEA2A00C2F4F9 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Swift整理";
+			productName = "Swift整理";
+			productReference = D8C1D94A1FFCEA2A00C2F4F9 /* Swift整理 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8C1D9571FFCEB6D00C2F4F9 /* 1.常量变量和基础类型 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8C1D95E1FFCEB6D00C2F4F9 /* Build configuration list for PBXNativeTarget "1.常量变量和基础类型" */;
+			buildPhases = (
+				D8C1D9541FFCEB6D00C2F4F9 /* Sources */,
+				D8C1D9551FFCEB6D00C2F4F9 /* Frameworks */,
+				D8C1D9561FFCEB6D00C2F4F9 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "1.常量变量和基础类型";
+			productName = "1.常量变量和基础类型";
+			productReference = D8C1D9581FFCEB6D00C2F4F9 /* 1.常量变量和基础类型 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8C1D9621FFCEB9900C2F4F9 /* 2.元祖 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8C1D9671FFCEB9900C2F4F9 /* Build configuration list for PBXNativeTarget "2.元祖" */;
+			buildPhases = (
+				D8C1D95F1FFCEB9900C2F4F9 /* Sources */,
+				D8C1D9601FFCEB9900C2F4F9 /* Frameworks */,
+				D8C1D9611FFCEB9900C2F4F9 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "2.元祖";
+			productName = "2.元祖";
+			productReference = D8C1D9631FFCEB9900C2F4F9 /* 2.元祖 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8C1D96D1FFCEBB300C2F4F9 /* 3.可选值 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8C1D9721FFCEBB300C2F4F9 /* Build configuration list for PBXNativeTarget "3.可选值" */;
+			buildPhases = (
+				D8C1D96A1FFCEBB300C2F4F9 /* Sources */,
+				D8C1D96B1FFCEBB300C2F4F9 /* Frameworks */,
+				D8C1D96C1FFCEBB300C2F4F9 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "3.可选值";
+			productName = "3.可选值";
+			productReference = D8C1D96E1FFCEBB300C2F4F9 /* 3.可选值 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8C1D9781FFCEBCA00C2F4F9 /* 4.字符和字符串 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8C1D97D1FFCEBCA00C2F4F9 /* Build configuration list for PBXNativeTarget "4.字符和字符串" */;
+			buildPhases = (
+				D8C1D9751FFCEBCA00C2F4F9 /* Sources */,
+				D8C1D9761FFCEBCA00C2F4F9 /* Frameworks */,
+				D8C1D9771FFCEBCA00C2F4F9 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "4.字符和字符串";
+			productName = "4.字符和字符串";
+			productReference = D8C1D9791FFCEBCA00C2F4F9 /* 4.字符和字符串 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8C1D9831FFCEBE900C2F4F9 /* 5.数组基础 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8C1D9881FFCEBE900C2F4F9 /* Build configuration list for PBXNativeTarget "5.数组基础" */;
+			buildPhases = (
+				D8C1D9801FFCEBE900C2F4F9 /* Sources */,
+				D8C1D9811FFCEBE900C2F4F9 /* Frameworks */,
+				D8C1D9821FFCEBE900C2F4F9 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "5.数组基础";
+			productName = "5.数组基础";
+			productReference = D8C1D9841FFCEBE900C2F4F9 /* 5.数组基础 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8C1D98E1FFCEC0300C2F4F9 /* 6.字典基础 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8C1D9931FFCEC0300C2F4F9 /* Build configuration list for PBXNativeTarget "6.字典基础" */;
+			buildPhases = (
+				D8C1D98B1FFCEC0300C2F4F9 /* Sources */,
+				D8C1D98C1FFCEC0300C2F4F9 /* Frameworks */,
+				D8C1D98D1FFCEC0300C2F4F9 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "6.字典基础";
+			productName = "6.字典基础";
+			productReference = D8C1D98F1FFCEC0300C2F4F9 /* 6.字典基础 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8C1D9991FFCEC1E00C2F4F9 /* 7.函数基础 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8C1D99E1FFCEC1E00C2F4F9 /* Build configuration list for PBXNativeTarget "7.函数基础" */;
+			buildPhases = (
+				D8C1D9961FFCEC1E00C2F4F9 /* Sources */,
+				D8C1D9971FFCEC1E00C2F4F9 /* Frameworks */,
+				D8C1D9981FFCEC1E00C2F4F9 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "7.函数基础";
+			productName = "7.函数基础";
+			productReference = D8C1D99A1FFCEC1E00C2F4F9 /* 7.函数基础 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8FBB3012003473A00EFAD3B /* 17.协议protocol */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8FBB3082003473B00EFAD3B /* Build configuration list for PBXNativeTarget "17.协议protocol" */;
+			buildPhases = (
+				D8FBB2FE2003473A00EFAD3B /* Sources */,
+				D8FBB2FF2003473A00EFAD3B /* Frameworks */,
+				D8FBB3002003473A00EFAD3B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "17.协议protocol";
+			productName = "17.协议protocol";
+			productReference = D8FBB3022003473A00EFAD3B /* 17.协议protocol */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8FBB30C20036B3F00EFAD3B /* 18.扩展 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8FBB31320036B3F00EFAD3B /* Build configuration list for PBXNativeTarget "18.扩展" */;
+			buildPhases = (
+				D8FBB30920036B3F00EFAD3B /* Sources */,
+				D8FBB30A20036B3F00EFAD3B /* Frameworks */,
+				D8FBB30B20036B3F00EFAD3B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "18.扩展";
+			productName = "18.扩展";
+			productReference = D8FBB30D20036B3F00EFAD3B /* 18.扩展 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D8C1D9421FFCEA2A00C2F4F9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = linkiing;
+				TargetAttributes = {
+					D89E0C501FFDBAD300BDD8D5 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D89E0C5B1FFDD80600BDD8D5 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D89E0C661FFDF92D00BDD8D5 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D89E0C711FFE120100BDD8D5 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D89E0C7C1FFE123700BDD8D5 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8A60E2F1FFF3F270043068D = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8A60E3A1FFF3F650043068D = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8A60E451FFF3F8D0043068D = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8A60E501FFF3FD20043068D = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8C1D9491FFCEA2A00C2F4F9 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8C1D9571FFCEB6D00C2F4F9 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8C1D9621FFCEB9900C2F4F9 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8C1D96D1FFCEBB300C2F4F9 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8C1D9781FFCEBCA00C2F4F9 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8C1D9831FFCEBE900C2F4F9 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8C1D98E1FFCEC0300C2F4F9 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8C1D9991FFCEC1E00C2F4F9 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8FBB3012003473A00EFAD3B = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8FBB30C20036B3F00EFAD3B = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = D8C1D9451FFCEA2A00C2F4F9 /* Build configuration list for PBXProject "Swift整理" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D8C1D9411FFCEA2A00C2F4F9;
+			productRefGroup = D8C1D94B1FFCEA2A00C2F4F9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D8C1D9491FFCEA2A00C2F4F9 /* Swift整理 */,
+				D8C1D9571FFCEB6D00C2F4F9 /* 1.常量变量和基础类型 */,
+				D8C1D9621FFCEB9900C2F4F9 /* 2.元祖 */,
+				D8C1D96D1FFCEBB300C2F4F9 /* 3.可选值 */,
+				D8C1D9781FFCEBCA00C2F4F9 /* 4.字符和字符串 */,
+				D8C1D9831FFCEBE900C2F4F9 /* 5.数组基础 */,
+				D8C1D98E1FFCEC0300C2F4F9 /* 6.字典基础 */,
+				D8C1D9991FFCEC1E00C2F4F9 /* 7.函数基础 */,
+				D89E0C501FFDBAD300BDD8D5 /* 8.Block闭包 */,
+				D89E0C5B1FFDD80600BDD8D5 /* 9.枚举和结构体 */,
+				D89E0C661FFDF92D00BDD8D5 /* 10.类和属性 */,
+				D89E0C711FFE120100BDD8D5 /* 11.下标subscripts */,
+				D89E0C7C1FFE123700BDD8D5 /* 12.类的继承 */,
+				D8A60E2F1FFF3F270043068D /* 13.构造方法 */,
+				D8A60E3A1FFF3F650043068D /* 14.析构方法 */,
+				D8A60E451FFF3F8D0043068D /* 15.内存管理 */,
+				D8A60E501FFF3FD20043068D /* 16.可选类型 */,
+				D8FBB3012003473A00EFAD3B /* 17.协议protocol */,
+				D8FBB30C20036B3F00EFAD3B /* 18.扩展 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D89E0C4D1FFDBAD300BDD8D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D89E0C541FFDBAD400BDD8D5 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D89E0C581FFDD80600BDD8D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D89E0C5F1FFDD80600BDD8D5 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D89E0C631FFDF92D00BDD8D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D89E0C6A1FFDF92D00BDD8D5 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D89E0C6E1FFE120100BDD8D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D89E0C751FFE120100BDD8D5 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D89E0C791FFE123700BDD8D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D89E0C801FFE123700BDD8D5 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8A60E2C1FFF3F270043068D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8A60E331FFF3F270043068D /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8A60E371FFF3F650043068D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8A60E3E1FFF3F650043068D /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8A60E421FFF3F8D0043068D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8A60E491FFF3F8D0043068D /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8A60E4D1FFF3FD20043068D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8A60E541FFF3FD20043068D /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D9461FFCEA2A00C2F4F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8C1D94E1FFCEA2A00C2F4F9 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D9541FFCEB6D00C2F4F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8C1D95B1FFCEB6D00C2F4F9 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D95F1FFCEB9900C2F4F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8C1D9661FFCEB9900C2F4F9 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D96A1FFCEBB300C2F4F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8C1D9711FFCEBB300C2F4F9 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D9751FFCEBCA00C2F4F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8C1D97C1FFCEBCA00C2F4F9 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D9801FFCEBE900C2F4F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8C1D9871FFCEBE900C2F4F9 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D98B1FFCEC0300C2F4F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8C1D9921FFCEC0300C2F4F9 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8C1D9961FFCEC1E00C2F4F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8C1D99D1FFCEC1E00C2F4F9 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8FBB2FE2003473A00EFAD3B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8FBB3052003473B00EFAD3B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8FBB30920036B3F00EFAD3B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8FBB31020036B3F00EFAD3B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		D89E0C551FFDBAD400BDD8D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D89E0C561FFDBAD400BDD8D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D89E0C611FFDD80600BDD8D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D89E0C621FFDD80600BDD8D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D89E0C6C1FFDF92D00BDD8D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D89E0C6D1FFDF92D00BDD8D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D89E0C771FFE120100BDD8D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D89E0C781FFE120100BDD8D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D89E0C821FFE123700BDD8D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D89E0C831FFE123700BDD8D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8A60E341FFF3F270043068D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8A60E351FFF3F270043068D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8A60E401FFF3F650043068D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8A60E411FFF3F650043068D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8A60E4B1FFF3F8D0043068D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8A60E4C1FFF3F8D0043068D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8A60E561FFF3FD20043068D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8A60E571FFF3FD20043068D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8C1D94F1FFCEA2A00C2F4F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D8C1D9501FFCEA2A00C2F4F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+			};
+			name = Release;
+		};
+		D8C1D9521FFCEA2A00C2F4F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8C1D9531FFCEA2A00C2F4F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8C1D95C1FFCEB6D00C2F4F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8C1D95D1FFCEB6D00C2F4F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8C1D9681FFCEB9900C2F4F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8C1D9691FFCEB9900C2F4F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8C1D9731FFCEBB300C2F4F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8C1D9741FFCEBB300C2F4F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8C1D97E1FFCEBCA00C2F4F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8C1D97F1FFCEBCA00C2F4F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8C1D9891FFCEBE900C2F4F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8C1D98A1FFCEBE900C2F4F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8C1D9941FFCEC0300C2F4F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8C1D9951FFCEC0300C2F4F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8C1D99F1FFCEC1E00C2F4F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8C1D9A01FFCEC1E00C2F4F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8FBB3062003473B00EFAD3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8FBB3072003473B00EFAD3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8FBB31120036B3F00EFAD3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8FBB31220036B3F00EFAD3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D89E0C571FFDBAD400BDD8D5 /* Build configuration list for PBXNativeTarget "8.Block闭包" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D89E0C551FFDBAD400BDD8D5 /* Debug */,
+				D89E0C561FFDBAD400BDD8D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D89E0C601FFDD80600BDD8D5 /* Build configuration list for PBXNativeTarget "9.枚举和结构体" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D89E0C611FFDD80600BDD8D5 /* Debug */,
+				D89E0C621FFDD80600BDD8D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D89E0C6B1FFDF92D00BDD8D5 /* Build configuration list for PBXNativeTarget "10.类和属性" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D89E0C6C1FFDF92D00BDD8D5 /* Debug */,
+				D89E0C6D1FFDF92D00BDD8D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D89E0C761FFE120100BDD8D5 /* Build configuration list for PBXNativeTarget "11.下标subscripts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D89E0C771FFE120100BDD8D5 /* Debug */,
+				D89E0C781FFE120100BDD8D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D89E0C811FFE123700BDD8D5 /* Build configuration list for PBXNativeTarget "12.类的继承" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D89E0C821FFE123700BDD8D5 /* Debug */,
+				D89E0C831FFE123700BDD8D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8A60E361FFF3F270043068D /* Build configuration list for PBXNativeTarget "13.构造方法" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8A60E341FFF3F270043068D /* Debug */,
+				D8A60E351FFF3F270043068D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8A60E3F1FFF3F650043068D /* Build configuration list for PBXNativeTarget "14.析构方法" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8A60E401FFF3F650043068D /* Debug */,
+				D8A60E411FFF3F650043068D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8A60E4A1FFF3F8D0043068D /* Build configuration list for PBXNativeTarget "15.内存管理" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8A60E4B1FFF3F8D0043068D /* Debug */,
+				D8A60E4C1FFF3F8D0043068D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8A60E551FFF3FD20043068D /* Build configuration list for PBXNativeTarget "16.可选类型" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8A60E561FFF3FD20043068D /* Debug */,
+				D8A60E571FFF3FD20043068D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8C1D9451FFCEA2A00C2F4F9 /* Build configuration list for PBXProject "Swift整理" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8C1D94F1FFCEA2A00C2F4F9 /* Debug */,
+				D8C1D9501FFCEA2A00C2F4F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8C1D9511FFCEA2A00C2F4F9 /* Build configuration list for PBXNativeTarget "Swift整理" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8C1D9521FFCEA2A00C2F4F9 /* Debug */,
+				D8C1D9531FFCEA2A00C2F4F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8C1D95E1FFCEB6D00C2F4F9 /* Build configuration list for PBXNativeTarget "1.常量变量和基础类型" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8C1D95C1FFCEB6D00C2F4F9 /* Debug */,
+				D8C1D95D1FFCEB6D00C2F4F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8C1D9671FFCEB9900C2F4F9 /* Build configuration list for PBXNativeTarget "2.元祖" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8C1D9681FFCEB9900C2F4F9 /* Debug */,
+				D8C1D9691FFCEB9900C2F4F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8C1D9721FFCEBB300C2F4F9 /* Build configuration list for PBXNativeTarget "3.可选值" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8C1D9731FFCEBB300C2F4F9 /* Debug */,
+				D8C1D9741FFCEBB300C2F4F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8C1D97D1FFCEBCA00C2F4F9 /* Build configuration list for PBXNativeTarget "4.字符和字符串" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8C1D97E1FFCEBCA00C2F4F9 /* Debug */,
+				D8C1D97F1FFCEBCA00C2F4F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8C1D9881FFCEBE900C2F4F9 /* Build configuration list for PBXNativeTarget "5.数组基础" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8C1D9891FFCEBE900C2F4F9 /* Debug */,
+				D8C1D98A1FFCEBE900C2F4F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8C1D9931FFCEC0300C2F4F9 /* Build configuration list for PBXNativeTarget "6.字典基础" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8C1D9941FFCEC0300C2F4F9 /* Debug */,
+				D8C1D9951FFCEC0300C2F4F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8C1D99E1FFCEC1E00C2F4F9 /* Build configuration list for PBXNativeTarget "7.函数基础" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8C1D99F1FFCEC1E00C2F4F9 /* Debug */,
+				D8C1D9A01FFCEC1E00C2F4F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8FBB3082003473B00EFAD3B /* Build configuration list for PBXNativeTarget "17.协议protocol" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8FBB3062003473B00EFAD3B /* Debug */,
+				D8FBB3072003473B00EFAD3B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8FBB31320036B3F00EFAD3B /* Build configuration list for PBXNativeTarget "18.扩展" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8FBB31120036B3F00EFAD3B /* Debug */,
+				D8FBB31220036B3F00EFAD3B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D8C1D9421FFCEA2A00C2F4F9 /* Project object */;
+}
