@@ -165,10 +165,25 @@ extension Int{
     }
 }
 
-
-
-
-
+//代理模式
+protocol BuyTicketDelegate:class {
+    func buyTicket()
+}
+class Person {
+    weak var delegate:BuyTicketDelegate?
+    func goToShanghai() {
+        delegate?.buyTicket()
+    }
+}
+class YellowCattle: BuyTicketDelegate {
+    func buyTicket() {
+        print("黄牛党买票")
+    }
+}
+let yellowCattle = YellowCattle()
+let person = Person()
+person.delegate = yellowCattle
+person.goToShanghai()
 
 
 

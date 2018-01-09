@@ -24,6 +24,8 @@
 		D8C1D9871FFCEBE900C2F4F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C1D9861FFCEBE900C2F4F9 /* main.swift */; };
 		D8C1D9921FFCEC0300C2F4F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C1D9911FFCEC0300C2F4F9 /* main.swift */; };
 		D8C1D99D1FFCEC1E00C2F4F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8C1D99C1FFCEC1E00C2F4F9 /* main.swift */; };
+		D8F757872004953500D4041C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F757862004953500D4041C /* main.swift */; };
+		D8F757922004AF0900D4041C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F757912004AF0900D4041C /* main.swift */; };
 		D8FBB3052003473B00EFAD3B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FBB3042003473B00EFAD3B /* main.swift */; };
 		D8FBB31020036B3F00EFAD3B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FBB30F20036B3F00EFAD3B /* main.swift */; };
 /* End PBXBuildFile section */
@@ -182,6 +184,24 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		D8F757822004953500D4041C /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D8F7578D2004AF0900D4041C /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		D8FBB3002003473A00EFAD3B /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -238,6 +258,10 @@
 		D8C1D9911FFCEC0300C2F4F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D8C1D99A1FFCEC1E00C2F4F9 /* 7.函数基础 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "7.函数基础"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8C1D99C1FFCEC1E00C2F4F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8F757842004953500D4041C /* 19.泛型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "19.泛型"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8F757862004953500D4041C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D8F7578F2004AF0900D4041C /* 20.封装、多态、嵌套类型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "20.封装、多态、嵌套类型"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8F757912004AF0900D4041C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D8FBB3022003473A00EFAD3B /* 17.协议protocol */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "17.协议protocol"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8FBB3042003473B00EFAD3B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D8FBB30D20036B3F00EFAD3B /* 18.扩展 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "18.扩展"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -364,6 +388,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		D8F757812004953500D4041C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8F7578C2004AF0900D4041C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		D8FBB2FF2003473A00EFAD3B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -475,6 +513,8 @@
 				D8A60E521FFF3FD20043068D /* 16.可选类型 */,
 				D8FBB3032003473A00EFAD3B /* 17.协议protocol */,
 				D8FBB30E20036B3F00EFAD3B /* 18.扩展 */,
+				D8F757852004953500D4041C /* 19.泛型 */,
+				D8F757902004AF0900D4041C /* 20.封装、多态、嵌套类型 */,
 				D8C1D94B1FFCEA2A00C2F4F9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -501,6 +541,8 @@
 				D8A60E511FFF3FD20043068D /* 16.可选类型 */,
 				D8FBB3022003473A00EFAD3B /* 17.协议protocol */,
 				D8FBB30D20036B3F00EFAD3B /* 18.扩展 */,
+				D8F757842004953500D4041C /* 19.泛型 */,
+				D8F7578F2004AF0900D4041C /* 20.封装、多态、嵌套类型 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -568,6 +610,22 @@
 				D8C1D99C1FFCEC1E00C2F4F9 /* main.swift */,
 			);
 			path = "7.函数基础";
+			sourceTree = "<group>";
+		};
+		D8F757852004953500D4041C /* 19.泛型 */ = {
+			isa = PBXGroup;
+			children = (
+				D8F757862004953500D4041C /* main.swift */,
+			);
+			path = "19.泛型";
+			sourceTree = "<group>";
+		};
+		D8F757902004AF0900D4041C /* 20.封装、多态、嵌套类型 */ = {
+			isa = PBXGroup;
+			children = (
+				D8F757912004AF0900D4041C /* main.swift */,
+			);
+			path = "20.封装、多态、嵌套类型";
 			sourceTree = "<group>";
 		};
 		D8FBB3032003473A00EFAD3B /* 17.协议protocol */ = {
@@ -878,6 +936,40 @@
 			productReference = D8C1D99A1FFCEC1E00C2F4F9 /* 7.函数基础 */;
 			productType = "com.apple.product-type.tool";
 		};
+		D8F757832004953500D4041C /* 19.泛型 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8F7578A2004953500D4041C /* Build configuration list for PBXNativeTarget "19.泛型" */;
+			buildPhases = (
+				D8F757802004953500D4041C /* Sources */,
+				D8F757812004953500D4041C /* Frameworks */,
+				D8F757822004953500D4041C /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "19.泛型";
+			productName = "19.泛型";
+			productReference = D8F757842004953500D4041C /* 19.泛型 */;
+			productType = "com.apple.product-type.tool";
+		};
+		D8F7578E2004AF0900D4041C /* 20.封装、多态、嵌套类型 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8F757932004AF0900D4041C /* Build configuration list for PBXNativeTarget "20.封装、多态、嵌套类型" */;
+			buildPhases = (
+				D8F7578B2004AF0900D4041C /* Sources */,
+				D8F7578C2004AF0900D4041C /* Frameworks */,
+				D8F7578D2004AF0900D4041C /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "20.封装、多态、嵌套类型";
+			productName = "20.封装、多态、嵌套类型";
+			productReference = D8F7578F2004AF0900D4041C /* 20.封装、多态、嵌套类型 */;
+			productType = "com.apple.product-type.tool";
+		};
 		D8FBB3012003473A00EFAD3B /* 17.协议protocol */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = D8FBB3082003473B00EFAD3B /* Build configuration list for PBXNativeTarget "17.协议protocol" */;
@@ -990,6 +1082,14 @@
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
 					};
+					D8F757832004953500D4041C = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					D8F7578E2004AF0900D4041C = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
 					D8FBB3012003473A00EFAD3B = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
@@ -1031,6 +1131,8 @@
 				D8A60E501FFF3FD20043068D /* 16.可选类型 */,
 				D8FBB3012003473A00EFAD3B /* 17.协议protocol */,
 				D8FBB30C20036B3F00EFAD3B /* 18.扩展 */,
+				D8F757832004953500D4041C /* 19.泛型 */,
+				D8F7578E2004AF0900D4041C /* 20.封装、多态、嵌套类型 */,
 			);
 		};
 /* End PBXProject section */
@@ -1169,6 +1271,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8C1D99D1FFCEC1E00C2F4F9 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8F757802004953500D4041C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8F757872004953500D4041C /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8F7578B2004AF0900D4041C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8F757922004AF0900D4041C /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1637,6 +1755,46 @@
 			};
 			name = Release;
 		};
+		D8F757882004953500D4041C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8F757892004953500D4041C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+		D8F757942004AF0900D4041C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		D8F757952004AF0900D4041C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VW6HNZLKMS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
 		D8FBB3062003473B00EFAD3B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1838,6 +1996,24 @@
 			buildConfigurations = (
 				D8C1D99F1FFCEC1E00C2F4F9 /* Debug */,
 				D8C1D9A01FFCEC1E00C2F4F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8F7578A2004953500D4041C /* Build configuration list for PBXNativeTarget "19.泛型" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8F757882004953500D4041C /* Debug */,
+				D8F757892004953500D4041C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8F757932004AF0900D4041C /* Build configuration list for PBXNativeTarget "20.封装、多态、嵌套类型" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8F757942004AF0900D4041C /* Debug */,
+				D8F757952004AF0900D4041C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
